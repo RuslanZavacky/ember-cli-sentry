@@ -4226,7 +4226,7 @@ range-parser@~1.2.0:
 
 "raven-js@git+https://github.com/RuslanZavacky/raven-js.git#pass-credentials-with-fetch-dist":
   version "3.21.0"
-  resolved "git+https://github.com/RuslanZavacky/raven-js.git#13a2f8619bb2d71b482eddea5f100769f8e0129b"
+  resolved "git+https://github.com/RuslanZavacky/raven-js.git#66e655e62f42125b9a51dd87e77a1ecbb9fd9adf"
 
 raw-body@~1.1.0:
   version "1.1.7"
