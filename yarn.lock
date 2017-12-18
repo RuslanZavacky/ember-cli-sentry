@@ -4224,9 +4224,9 @@ range-parser@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.0.tgz#f49be6b487894ddc40dcc94a322f611092e00d5e"
 
-"raven-js@git+https://github.com/RuslanZavacky/raven-js.git#custom-headers-dist":
-  version "3.20.1"
-  resolved "git+https://github.com/RuslanZavacky/raven-js.git#5240fb78d9a85fd97a72d4af4856463b23963f12"
+"raven-js@git+https://github.com/RuslanZavacky/raven-js.git#pass-credentials-with-fetch":
+  version "3.21.0"
+  resolved "git+https://github.com/RuslanZavacky/raven-js.git#47974224760773d9d41a05fbc5e578f080e2f361"
 
 raw-body@~1.1.0:
   version "1.1.7"
